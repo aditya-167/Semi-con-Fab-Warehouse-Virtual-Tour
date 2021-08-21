@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl TransParentGlass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.4 0.4 0.4
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.5
+d 0.1
+illum 4

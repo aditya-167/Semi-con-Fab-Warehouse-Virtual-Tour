@@ -40,7 +40,7 @@ Total immersion in a digital twin world is an excellent way to train employees a
 
 ![](Images/SOIC.jpg)
 
-![](Images/SOICVideo.jpg)
+![](Images/SOICVideo.gif)
 
 6. `QFN chip`
 

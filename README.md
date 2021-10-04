@@ -15,34 +15,34 @@ Total immersion in a digital twin world is an excellent way to train employees a
 
 ![](Images/warehouse.jpg)
 
-1. `Assembly Area`
+## 1. `Assembly Area`
 
 ![](Images/Assembly.jpg)
 
-2. `Fab Area`
+## 2. `Fab Area`
 
 ![](Images/FabArea.jpg)
 
 
-3. `Wafer Machine`
+## 3. `Wafer Machine`
 
 ![](Images/WaferFab.jpg)
 
 ![](Images/WaferVideo.gif)
 
-4. `Wafer Cutter`
+## 4. `Wafer Cutter`
 
 ![](Images/WafferCut.jpg)
 
 ![](Images/WaferCut.gif)
 
-5. `SOIC chip`
+## 5. `SOIC chip`
 
 ![](Images/SOIC.jpg)
 
 ![](Images/SOICVideo.gif)
 
-6. `QFN chip`
+## 6. `QFN chip`
 
 ![](Images/QFN.jpg)
 

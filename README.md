@@ -28,7 +28,7 @@ Total immersion in a digital twin world is an excellent way to train employees a
 
 ![](Images/WaferFab.jpg)
 
-![](Images/WaferFab.jpg)
+![](Images/WaferVideo.gif)
 
 4. `Wafer Cutter`
 
